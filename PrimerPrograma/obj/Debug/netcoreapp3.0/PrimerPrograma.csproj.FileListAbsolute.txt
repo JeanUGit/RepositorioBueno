@@ -1,0 +1,10 @@
+D:\visual Proyectos\PrimerPrograma\PrimerPrograma\bin\Debug\netcoreapp3.0\PrimerPrograma.exe
+D:\visual Proyectos\PrimerPrograma\PrimerPrograma\bin\Debug\netcoreapp3.0\PrimerPrograma.deps.json
+D:\visual Proyectos\PrimerPrograma\PrimerPrograma\bin\Debug\netcoreapp3.0\PrimerPrograma.runtimeconfig.json
+D:\visual Proyectos\PrimerPrograma\PrimerPrograma\bin\Debug\netcoreapp3.0\PrimerPrograma.runtimeconfig.dev.json
+D:\visual Proyectos\PrimerPrograma\PrimerPrograma\bin\Debug\netcoreapp3.0\PrimerPrograma.dll
+D:\visual Proyectos\PrimerPrograma\PrimerPrograma\bin\Debug\netcoreapp3.0\PrimerPrograma.pdb
+D:\visual Proyectos\PrimerPrograma\PrimerPrograma\obj\Debug\netcoreapp3.0\PrimerPrograma.AssemblyInfoInputs.cache
+D:\visual Proyectos\PrimerPrograma\PrimerPrograma\obj\Debug\netcoreapp3.0\PrimerPrograma.AssemblyInfo.cs
+D:\visual Proyectos\PrimerPrograma\PrimerPrograma\obj\Debug\netcoreapp3.0\PrimerPrograma.dll
+D:\visual Proyectos\PrimerPrograma\PrimerPrograma\obj\Debug\netcoreapp3.0\PrimerPrograma.pdb
