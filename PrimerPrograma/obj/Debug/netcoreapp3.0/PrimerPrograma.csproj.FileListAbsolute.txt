@@ -8,3 +8,5 @@ D:\visual Proyectos\PrimerPrograma\PrimerPrograma\obj\Debug\netcoreapp3.0\Primer
 D:\visual Proyectos\PrimerPrograma\PrimerPrograma\obj\Debug\netcoreapp3.0\PrimerPrograma.AssemblyInfo.cs
 D:\visual Proyectos\PrimerPrograma\PrimerPrograma\obj\Debug\netcoreapp3.0\PrimerPrograma.dll
 D:\visual Proyectos\PrimerPrograma\PrimerPrograma\obj\Debug\netcoreapp3.0\PrimerPrograma.pdb
+D:\visual Proyectos\PrimerPrograma\PrimerPrograma\obj\Debug\netcoreapp3.0\PrimerPrograma.csprojAssemblyReference.cache
+D:\visual Proyectos\PrimerPrograma\PrimerPrograma\obj\Debug\netcoreapp3.0\PrimerPrograma.csproj.ResolveComReference.cache
